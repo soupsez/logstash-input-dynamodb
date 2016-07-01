@@ -42,7 +42,7 @@ Gem::Specification.new do |s|
   s.requirements << "jar 'com.amazonaws:aws-java-sdk-directory', '1.10.11'"
   s.requirements << "jar 'com.google.protobuf:protobuf-java', '2.6.1'"
   s.requirements << "jar 'com.amazonaws:aws-java-sdk-cloudfront', '1.10.11'"
-  s.requirements << "jar 'com.amazonaws:aws-java-sdk-kinesis', '1.10.6'"
+  s.requirements << "jar 'com.amazonaws:aws-java-sdk-kinesis', '1.10.60'"
   s.requirements << "jar 'com.amazonaws:aws-java-sdk-workspaces', '1.10.11'"
   s.requirements << "jar 'com.amazonaws:aws-java-sdk-swf-libraries', '1.10.11'"
   s.requirements << "jar 'com.amazonaws:aws-java-sdk-cloudhsm', '1.10.11'"
